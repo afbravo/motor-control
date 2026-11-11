@@ -1,0 +1,15 @@
+# Python stuff
+.venv
+__pycache__/
+*.py[cod]
+
+# I dont want my tokens to be stolen stuff
+.env
+
+# Zephyr makes too many dirs stuff
+.west/
+build/
+tools/
+bootloader/
+modules/
+zephyr/
